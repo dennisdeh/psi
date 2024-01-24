@@ -1,5 +1,5 @@
 # psi 
-A little util that calculates the Population Stability Index (PSI) used for example in stability analyses
+A little util that calculates the Population Stability Index (PSI) used for example in stability analyses.
 
 Features:
 - Binning of numerical features by quantiles or equidistant bins
